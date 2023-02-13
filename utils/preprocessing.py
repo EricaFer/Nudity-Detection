@@ -6,7 +6,6 @@ from skimage.io import imread, imshow
 
 def read_image(url):
     imagem = cv2.cvtColor(imread(url), cv2.COLOR_RGB2HSV)
-
     return imagem
 
 def apply_mask(imagem):
