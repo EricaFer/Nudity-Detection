@@ -8,3 +8,8 @@ Alunos:
 - Lucas Resende Silveira Reis - 180144421
 
 [Vídeo da apresentação](https://youtu.be/UeCgOFEveEA)
+[Link do repositório](https://github.com/EricaFer/Nudity-Detection)*
+
+* Foi enviado o repositório pelo fato de a pasta original ter muitas fotos e não ser possível enviar via Aprender.
+
+
