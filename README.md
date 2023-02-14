@@ -1,6 +1,6 @@
 # Nudity-Detection
 
-Este repositório não contém as imagens neutras utilizadas para o treino devido à falta de espaço para armazenamento, as imagens explícitas foram retiradas do arquivo ``nsfw_url.txt```, onde foi lida cada URL individualmente.
+Este repositório não contém as imagens neutras utilizadas para o treino devido à falta de espaço para armazenamento, as imagens explícitas foram retiradas do arquivo ``nsfw_url.txt``, onde foi lida cada URL individualmente.
 
 Alunos:
 
